@@ -1,6 +1,5 @@
 # System engineering & Devops
 
-## Projects
 
 ## Acknowledgements 
 
