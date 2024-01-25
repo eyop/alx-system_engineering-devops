@@ -1,15 +1,6 @@
 # Project Name.
 **0x03. Shell, init files, variables and expansions**
 
-## Author's Details.
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel:*+254707240068.*
-
-##  Requirements
-
 ### Bash Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
 *   All your files will be tested on Ubuntu 20.04 LTS.
@@ -106,9 +97,4 @@ How to temporarily disable an alias.
     ubuntu@ip-172-31-63-244:/$
     ```
 ---
-* **17. I'm an instant star. Just add water and stir.** - Write a shell script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. - `WATER` is in base `water`. - `STIR` is in base `stir`. The result should be in base `bestchol`. - `103-water_and_stir`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+* **17. I'm an instant star. Just add water and stir.** - Write a shell script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result. - `WATER` is in base `water`. - `STIR` is in base `stir`. The result should be in base `bestchol`. - `103-water_and_stir

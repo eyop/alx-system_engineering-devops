@@ -1,15 +1,6 @@
 # Project Name.
 **0x05. Processes and signals**
 
-## Author's Details.
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel:*+254707240068.*
-
-##  Requirements
-
 ### Bash Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
 *   All your files will be tested on Ubuntu 20.04 LTS.
@@ -98,6 +89,3 @@ What are the 2 signals that cannot be ignored.
     ```
 ---
 
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.

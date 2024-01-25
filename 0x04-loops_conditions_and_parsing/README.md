@@ -1,14 +1,6 @@
 # Project Name.
 **0x04. Loops, conditions and parsing**
 
-## Author's Details.
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel:*+254707240068.*
-
-##  Requirements
 
 ### Bash Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
@@ -89,7 +81,3 @@ What are files and other comparison operators, and how to use them.
     sylvain@ubuntu$
     ```
 ---
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
